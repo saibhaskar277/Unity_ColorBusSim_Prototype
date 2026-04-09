@@ -92,11 +92,3 @@ This allows quick iteration of balancing and content without changing core logic
 3. Press Play.
 4. Click buses to start movement and observe stop interactions.
 
----
-
-If you want, this README can be expanded with:
-
-- scene setup screenshots
-- architecture diagram
-- roadmap/TODO section
-- contribution and coding guidelines
