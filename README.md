@@ -4,6 +4,10 @@ Unity prototype for a color-based bus routing and passenger transfer game loop.
 
 ## Overview
 
+## 🎥 Gameplay Demo
+[![Watch Demo](demo/ColourBusThumbNail.png)](demo/ColourBusSim.mp4)
+
+
 This project simulates buses moving on spline paths, picking up and dropping off color-coded passengers at stops.
 
 The core loop is:
